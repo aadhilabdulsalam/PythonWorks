@@ -1,0 +1,14 @@
+#int
+x=10
+#float
+y=12.5
+#complex
+z=12+3j
+#string
+s="hello"
+#list
+l=[1,2,3,4]
+#tuple
+t=('red','blue')
+#set
+v={1,2,3}
